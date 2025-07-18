@@ -1,5 +1,6 @@
 # Bot WhatsApp Terintegrasi dengan API Daftar Tugas
 Untuk Tugas Pemograman Integrative 
+Dosen Pengampu : Nugra Atsaury Saragih, S.Kom., M.T
 
 Aplikasi ini adalah bot WhatsApp yang terintegrasi dengan API backend untuk manajemen daftar tugas (to-do list). Bot ini memungkinkan pengguna untuk melakukan operasi CRUD pada kategori dan tugas melalui WhatsApp.
 
